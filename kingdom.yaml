@@ -1,0 +1,8 @@
+name: kallophanes
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The event when something beautiful comes to be seen, named on either side of the divine line without yet deciding whether the beauty is created or uncreated.
+dependsOn: [youspeak, me, orthophanes, doxakallos]
